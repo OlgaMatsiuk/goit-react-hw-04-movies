@@ -1,0 +1,13 @@
+.activeLink {
+  color: #2196f3;  
+  /* composes: link; */
+}
+.link {
+    display: inline-block;
+    text-decoration: none;
+    padding: 12px;
+    font-size: 18px;
+}
+.nav {
+  border-bottom: 1px solid #000;
+}
